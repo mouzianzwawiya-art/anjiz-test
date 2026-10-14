@@ -1,1 +1,15 @@
-{"id":"./","name":"ANJIZ | أَنْجِز","short_name":"أَنْجِز","description":"منصتك لإنجاز أعمالك الأكاديمية والمكتبية","lang":"ar","dir":"rtl","start_url":"./","scope":"./","display":"standalone","background_color":"#f5f7fb","theme_color":"#101e3b","icons":[{"src":"assets/anjiz-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "ANJIZ | أَنْجِز",
+  "short_name": "ANJIZ",
+  "description": "منصتك لإنجاز أعمالك الأكاديمية والمكتبية",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#10243a",
+  "theme_color": "#10243a",
+  "icons": [
+    { "src": "./assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
